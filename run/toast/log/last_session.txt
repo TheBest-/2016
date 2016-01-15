@@ -1,0 +1,26 @@
+ ________    ______                 __   
+((       )  /_  __/___  ____ ______/ /_  
+||  o o  |   / / / __ \/ __ `/ ___/ __/  
+||   3   |  / / / /_/ / /_/ (__  ) /_    
+\\_______/ /_/  \____/\__,_/____/\__/    
+
+[15/01/16-04:33:25] [Toast] [Bootstrap] [INFO] Toast Version: 2.4.3
+[15/01/16-04:33:25] [Toast] [Bootstrap] [INFO] Toast Commit Hash: c35ff70
+[15/01/16-04:33:25] [Toast] [Core-Initialization] [INFO] Toast Started with Run Arguments: [-verify, -sim, --search, --no-color, -ide, ECLIPSE]
+[15/01/16-04:33:25] [Toast] [Pre-Initialization] [INFO] Slicing Loaf...
+[15/01/16-04:33:25] [Toast] [Initialization] [INFO] Nuking Toast...
+platform: /Windows/amd64/
+[15/01/16-04:33:26] [Toast] [Pre-Start] [INFO] Buttering Bread...
+[15/01/16-04:33:26] [Toast|Loader] [Pre-Start] [INFO] Module Loaded: stronghold@0.0.1
+[15/01/16-04:33:26] [Toast] [Start] [INFO] Fabricating Sandwich...
+[15/01/16-04:33:26] [Toast] [Start] [INFO] Verdict: TOTE-aly delicious
+[15/01/16-04:33:26] [Toast] [Main] [INFO] Total Initiation Time: 1.438 seconds
+[15/01/16-04:33:26] [Verification] [INFO] Beginning Code Verification. Echoing environmental data...
+[15/01/16-04:33:26] [Verification] [INFO] 	Loaded Modules:
+[15/01/16-04:33:26] [Verification] [INFO] 		stronghold@0.0.1
+[15/01/16-04:33:26] [Verification] [INFO] Starting Code Verification in 5 seconds...
+[15/01/16-04:33:31] [Verification] [INFO] Transferring into Autonomous... (Switching to Teleop in 15 seconds)
+[15/01/16-04:33:46] [Verification] [INFO] Transferring into Teleoperated... (Switching to Disabled in 1 minute)
+[15/01/16-04:34:46] [Verification] [INFO] Disabling Robot... (Shutting Down in 10 seconds)
+[15/01/16-04:34:56] [Verification] [INFO] Code Verification Successful! Shutting Down...
+[15/01/16-04:34:56] [Toast] [Verification Worker] [INFO] Robot Shutting Down...
